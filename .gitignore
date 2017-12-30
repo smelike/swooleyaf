@@ -1,0 +1,5 @@
+.idea/
+syLibs/SyServer/logs/
+syLibs/SyServer/default/
+pidfile/
+package/
